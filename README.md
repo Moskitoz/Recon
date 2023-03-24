@@ -8,3 +8,9 @@ docker run -it --rm --name rustscan rustscan/rustscan:1.10.0 xx.xx.xx.xx --no-nm
 ## Show version name
 
 docker run -it --rm --name rustscan rustscan/rustscan:1.10.0 xx.xx.xx.xx -- -A
+
+
+
+## Katana Require
+
+sudo apt-get install sl
